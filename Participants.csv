@@ -1,12 +1,4 @@
 RegNo ,Name,Department,Year,email,Team
-99230040394,venu,cse,3,venunadh@klu.ac.in,team 1
-99230040459,reddy,cse,3,reddy@klu.ac.in,team 1
-99230040387,dileep,cse,3,dileep@klu.ac.in,team 1
-99230040379,anirudh,cse,3,anirudh@klu.ac.in,team 1
-99230040428,thaha,cse,3,thaha@klu.ac.in,team 2
-99230040429,abhishek,cse,2,abhi@klu.ac.in,team 2
-99230040430,varma,cse,2,varma@klu.ac.in,team 2
-99230040431,prem,cse,2,prem@klu.ac.in,team 2
 9923001066,Anjana devi,Biotechnology,3rd Year,9923001066@klu.ac.in,Coding ninjas
 99230041260,Mohammad shadik,Cse,3rd Year,99230041260@klu.ac.in,Coding ninjas
 99230041204,Uday saini,Cse,3rd Year,99230041204@klu.ac.in,Coding ninjas
@@ -127,3 +119,91 @@ RegNo ,Name,Department,Year,email,Team
 9924019071,KALAIARASI A,BSc IT,2nd Year,9924019071@klu.ac.in,Nora
 9924019055,SRUTHI.S,BSc IT,2nd Year,9924019055@klu.ac.in,Nora
 9924019003,AJITHA M,BSc IT,2nd Year,9924019003@klu.ac.in,Nora
+99240041297,Kavya Sivakumar,Computer Science and Engineering (Data Science),2nd Year,99240041297@klu.ac.in,CodeX
+99240041219,Ephi Jotham,Computer Science and Engineering(Cyber Security),2nd Year,99240041219@klu.ac.in,CodeX
+99240040144,Priyadarshini Ramu,Computer Science Engineering(Data Science),2nd Year,99240040144@klu.ac.in,CodeX
+9924001017,Vanditha.K.M,Biotechnology,2nd Year,9924001017@klu.ac.in,CodeX
+99230040080,BASAVA HARSHA,CSE-AIML,3rd Year,99230040080@klu.ac.in,Hackers
+99230040004,AKULETI BUNNY,CSE-AIML,3rd Year,99230040004@klu.ac.in,Hackers
+99230040002,A KARTHIK,CSE-AIML,3rd Year,99230040002@klu.ac.in,Hackers
+99230040249,ADAPA GOPI YASWANTH,CSE-AIML,3rd Year,99230040249@klu.ac.in,Hackers
+9923005228,V ADHITHIYAA,ECE,3rd Year,9923005228@klu.ac.in,Athenix strikers
+9923005220,SELVA HARINI.P,ECE,3rd Year,9923005220@klu.ac.in,Athenix strikers
+9923005218,SAGUNTHALA DEVI A,ECE,3rd Year,9923005218@klu.ac.in,Athenix strikers
+9923005258,ASMITHA SHREE V,ECE,3rd Year,9923005258@klu.ac.in,Athenix strikers
+9922008338,MOHAMED SAMEER M,IT,4th Year,9922008338@klu.ac.in,Team Power
+9922008467,SYED MOHAMED AASHIF S,IT,4th Year,9922008467@klu.ac.in,Team Power
+9922008335,LOGESH G,IT,4th Year,9922008335@klu.ac.in,Team Power
+9922008366,GOUTHAM BALAJI M R,IT,4th Year,9922008366@klu.ac.in,Team Power
+9924017012,ANANTHAPADMANATHAN R,BCA,2nd Year,9924017012@klu.ac.in,TEAM HAVOC
+9924017059,KESHORE KUMAR S,BCA,2nd Year,9924017059@klu.ac.in,TEAM HAVOC
+9924017025,BALAMURUGAN M,BCA,2nd Year,9924017025@klu.ac.in,TEAM HAVOC
+9924017099,PATHMA KUMAR V,BCA,2nd Year,9924017099@klu.ac.in,TEAM HAVOC
+99240041347,PERURI LEELA SAINADH,Data science,2nd Year,99240041347@klu.ac.in,CodeHeist
+99240040194,MASABATHULA TRILEKHA,Cyber security,2nd Year,99240040194@klu.ac.in,CodeHeist
+99240040227,GODSON THOMAS,AI&ML,2nd Year,99240040227@klu.ac.in,CodeHeist
+99240040127,NALLAREDDY VENKATA SUKESH REDDY,Data science,2nd Year,99240040127@klu.ac.in,CodeHeist
+99240040146,Pulipaka Sanjana,CSE - DS,2nd Year,99240040146@klu.ac.in,Binary Brains
+99240040202,NANDAVARAM MONISH REDDY,CSE - AI & ML,2nd Year,99240040202@klu.ac.in,Binary Brains
+99240040721,Gangireddy Santhosh Reddy,CSE - AI & ML,2nd Year,99240040721@klu.ac.in,Binary Brains
+99240040275,KURUVA PREMA SAI,CSE - AI & ML,2nd Year,99240040275@klu.ac.in,Binary Brains
+9924019012,M.BIRUNDHA,CS & IT,2nd Year,9924019012@klu.ac.in,Coders
+9924019001,M.ABINAYA,CS & IT,2nd Year,9924019001@klu.ac.in,Coders
+9924019056,M.SUDALAI MANI,CS &IT,2nd Year,9924019056@klu.ac.in,Coders
+9924019064,R .VAISHNAVI,CS & IT,2nd Year,9924019064@klu.ac.in,Coders
+9924018067,RAMESH J,CS&IT,2nd Year,9924018067@klu.ac.in,Code blockers
+9924019034,ASHOK PANDIAN M,CS&IT,2nd Year,9924019034@klu.ac.in,Code blockers
+9924019010,BHUVADINESH S,CS&IT,2nd Year,9924019010@klu.ac.in,Code blockers
+9924019037,MONISH J.N,CS&IT,2nd Year,9924019037@klu.ac.in,Code blockers
+9923019019,S.Mohamed sidthik,Bsc IT,3rd Year,9923019019@klu.ac.in,Hack masters
+9923019042,R.Thamarai,Bsc IT,3rd Year,9923019042@klu.ac.in,Hack masters
+9923019002,V.Anuvadhana,Bsc IT,3rd Year,9923019002@klu.ac.in,Hack masters
+9923019023,L.Pandiselvam,Bsc IT,3rd Year,9923019023@klu.ac.in,Hack masters
+9923019007,S Dharnya,BSC IT,3rd Year,9923019007@klu.ac.in,Pixelaura
+9923019005,M Bhavadharshini,BSC IT,3rd Year,9923019005@klu.ac.in,Pixelaura
+9923019004,R Atchaya devi,BSC IT,3rd Year,9923019004@klu.ac.in,Pixelaura
+9923018047,T Aarthi,BSC IT,3rd Year,9923018047@klu.ac.in,Pixelaura
+9923019041,SURESH PANDIAN A,B. Sc. IT,3rd Year,9923019041@klu.ac.in,Team Coderz
+9923019043,THAVASAKTHIGANESH K,B. Sc. IT,3rd Year,9923019043@klu.ac.in,Team Coderz
+9923019035,SARAN R,B. Sc. IT,3rd Year,9923019035@klu.ac.in,Team Coderz
+9923019030,RITHICK ROSHAN P,B. Sc. IT,3rd Year,9923019030@klu.ac.in,Team Coderz
+9923019047,Vetri vel,Information technology,3rd Year,9923019047@klu.ac.in,Team Beginners
+9923019045,Vel Murugan,Information technology,3rd Year,9923019045@klu.ac.in,Team Beginners
+9923019050,Vinith R,Information technology,3rd Year,9923019050@klu.ac.in,Team Beginners
+9923019029,Rishi Kesh,Information technology,3rd Year,9923019029@klu.ac.in,Team Beginners
+9923019053,Bala murugan,Information technology,3rd Year,9923019053@klu.ac.in,Team Thunders
+9924011015,Sakthivel R,Food technology,2nd Year,9924011015@klu.ac.in,Team Thunders
+99240040107,Yashwant,Cse - AI/ML,2nd Year,99240040107@klu.ac.in,Team Thunders
+9924001030,Rethin regis M,Biotechnology,2nd Year,9924001030@klu.ac.in,Team Thunders
+9924017070,Sudharshinii M,BCA,2nd Year,9924017070@klu.ac.in,Deciders
+9924017129,Shreyaas S,BCA,2nd Year,9924017129@klu.ac.in,Deciders
+9924017110,D.Rakshana,BCA,2nd Year,9924017110@klu.ac.in,Deciders
+9922001065,K.Pavithra,Biotechnology,4th Year,9922001065@klu.ac.in,Deciders
+9923017053,K.muthulakshmi,BCA,3rd Year,9923017053@klu.ac.in,Neural nest
+992301057,Nasrin banu j,BCA,3rd Year,992301057@klu.ac.in,Neural nest
+9923017001,T Abirami,BCa,3rd Year,9923017001@klu.ac.in,Neural nest
+9923017055,V.Nagalakshmi,BCA,3rd Year,9923017055@klu.ac.in,Neural nest
+9924017092,NAGAPAVITHRA N,BCA,2nd Year,9924017092@klu.ac.in,The innovators
+9924017031,DHANYASRI K,BCA,2nd Year,9924017031@klu.ac.in,The innovators
+9924017030,DEVI S,BCA,2nd Year,9924017030@klu.ac.in,The innovators
+9924017167,KAVITHA K,BCA,2nd Year,9924017167@klu.ac.in,The innovators
+9924017029,Deepak S,BCA,2nd Year,9924017029@klu.ac.in,Team Akaza
+9924017131,Siva R,BCA,2nd Year,9924017131@klu.ac.in,Team Akaza
+9924017153,Yuvaraj vasan V,BCA,2nd Year,9924017153@klu.ac.in,Team Akaza
+9924017156,Mohamad Aslam M.S,BCA,2nd Year,9924017156@klu.ac.in,Team Akaza
+9924018102,ELAMARAN.M,BSC.COMPUTER SCIENCE,2nd Year,9924018102@klu.ac.in,SPARTANZZ
+9924018063,NITESH.V,BSC COMPUTER SCIENCE,2nd Year,9924018063@klu.ac.in,SPARTANZZ
+9924018062,T.NAGA SANTHOSH,BSC.COMPUTER SCIENCE,2nd Year,9924018062@klu.ac.in,SPARTANZZ
+9924018087,THANGARAM.S,BSC . COMPUTER SCIENCE,2nd Year,9924018087@klu.ac.in,SPARTANZZ
+9924001008,BAAVANI V,Btech Biotechnology,2nd Year,9924001008@klu.ac.in,CODE CRUSADERS
+9924001003,AFRIN SINTHA,Btech Biotechnology,2nd Year,9924001003@klu.ac.in,CODE CRUSADERS
+9923018065,SENTHILKUMAR E,BSc Computer Science,3rd Year,9923018065@klu.ac.in,CODE CRUSADERS
+9923018011,P MAHAMOOD AMEER BAASIL,BSc Computer Science,3rd Year,9923018011@klu.ac.in,CODE CRUSADERS
+9924019004,R.Akchaya,BSC IT,2nd Year,9924019004@klu.ac.in,Game Closer
+9924019014,M Devadharshini,BSC IT,2nd Year,9924019014@klu.ac.in,Game Closer
+9924019025,G Indhra devi,BSC IT,2nd Year,9924019025@klu.ac.in,Game Closer
+9924019050,K Selva meena,BSC IT,2nd Year,9924019050@klu.ac.in,Game Closer
+9923011011,Pooja R.K,Food Tech ,3rd Year,9923011011@klu.ac.in,Tech Conqueror
+9923011008,Jhanani A.G,Food Tech ,3rd Year,9923011008@klu.ac.in,Tech Conqueror
+99230041133,Varadharaja Perumal G,Food Tech ,3rd Year,99230041133@klu.ac.in,Tech Conqueror
+9923005241,Manasha P,Food Tech ,3rd Year,9923005241@klu.ac.in,Tech Conqueror
