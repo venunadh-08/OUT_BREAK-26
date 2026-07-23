@@ -8,7 +8,7 @@ export default defineConfig({
     react(),
     basicSsl()
   ],
-  base: '/HACK_HEIST/',
+  base: '/OUT_BREAK-26/',
   server: {
     host: true, // Allows access from your mobile device
     https: {}  // Enables HTTPS
