@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { Users, AlertCircle } from 'lucide-react';
 import { User } from '../types';
-import gfgLogo from '/gfg_logo.png';
+import gfgLogo from '/favicon.png';
 
 // The parseCSV function is needed again to process the file
 const parseCSV = (csvText: string): any[] => {
@@ -68,21 +68,39 @@ const LoginPage: React.FC<LoginPageProps> = ({ onLogin }) => {
   };
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-gfg-gradient-start to-gfg-gradient-end flex items-center justify-center relative overflow-hidden">
-      <div className="relative z-10 w-full max-w-md mx-4">
+    <div
+      className="min-h-screen flex items-center justify-center relative overflow-hidden responsive-bg"
+    >
+      <div className="relative z-10 w-full max-w-md px-2 sm:px-4 mx-auto">
         <div className="text-center mb-8">
           <div className="mb-4">
             <img src={gfgLogo} alt="GFG Logo" className="mx-auto h-24 sm:h-28" />
           </div>
-          <p className="text-gfg-gold text-lg font-body uppercase tracking-widest mb-2">GFG CAMPUS BODY KARE PRESENTS</p>
-          <h1 className="text-6xl font-extrabold text-gfg-text-light font-heading mb-4 tracking-tight">
-            HACK <span className="bg-gfg-red text-gfg-text-light px-2 py-1 leading-none inline-block">HEIST</span>
-          </h1>
-          <p className="text-gfg-gold text-lg font-body uppercase tracking-widest mb-2">ATTENDANCE SYSTEM</p>
+          <p className="text-white font-bold drop-shadow-[0_4px_4px_rgba(0,0,0,1)] text-lg font-body uppercase tracking-widest mb-2 animate-slide-up delay-200">GFG CAMPUS BODY KARE PRESENTS</p>
+          <div className="relative w-[380px] h-[190px] mx-auto mb-0 sm:mb-8 mt-6 text-gfg-text-light animate-slide-up delay-300 transform scale-[0.75] sm:scale-100 origin-top">
+            {/* Out part */}
+            <div className="absolute top-0 left-0 flex items-end z-10">
+              <div className="element-box">
+                <span className="element-number">8</span>
+                <span className="element-symbol">O</span>
+              </div>
+              <span className="font-bold ml-2 mb-[20px] tracking-tight text-white drop-shadow-md" style={{ fontSize: '65px', fontFamily: "'Times New Roman', Times, serif", lineHeight: "0.75" }}>ut</span>
+            </div>
+
+            {/* Break part */}
+            <div className="absolute top-[95px] left-[95px] flex items-end z-20">
+              <div className="element-box">
+                <span className="element-number">35</span>
+                <span className="element-symbol">Br</span>
+              </div>
+              <span className="font-bold ml-2 mb-[20px] tracking-tight text-white drop-shadow-md" style={{ fontSize: '65px', fontFamily: "'Times New Roman', Times, serif", lineHeight: "0.75" }}>eak'26</span>
+            </div>
+          </div>
+          <p className="text-white font-bold drop-shadow-[0_4px_4px_rgba(0,0,0,1)] text-lg font-body uppercase tracking-widest mb-2">ATTENDANCE SYSTEM</p>
         </div>
-        <div className="bg-gfg-card-bg rounded-lg shadow-2xl border border-gfg-border overflow-hidden">
+        <div className="bg-gfg-card-bg rounded-lg shadow-2xl border border-gfg-border overflow-hidden glass-panel">
           <div className="bg-gradient-to-r from-gfg-red to-gfg-red-hover p-4">
-            <h2 className="text-xl font-bold text-gfg-text-light text-center font-heading tracking-widest">ORGANIZER ACCESS</h2>
+            <h2 className="text-xl font-bold text-gfg-text-light text-center font-heading tracking-widest uppercase">ORGANIZER ACCESS</h2>
           </div>
           <form onSubmit={handleSubmit} className="p-6 space-y-4">
             <div>

@@ -68,7 +68,7 @@ const AttendanceTable: React.FC<AttendanceTableProps> = ({ records }) => {
                       <td key={sessionId} className="p-2 md:p-4 text-center">
                         <span 
                           className={`px-2 py-1 rounded-full text-xs font-medium ${
-                            isPresent ? 'bg-green-500/20 text-green-400' : 'bg-gfg-red/20 text-gfg-red'
+                            isPresent ? 'bg-green-500/20 text-green-400' : 'bg-red-500/20 text-red-500'
                           }`}
                         >
                           {isPresent ? 'PRESENT' : 'ABSENT'}

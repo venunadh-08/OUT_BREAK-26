@@ -9,22 +9,26 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        heading: ['Oswald', ...defaultTheme.fontFamily.sans],
-        body: ['Roboto', ...defaultTheme.fontFamily.sans],
-        sans: ['Roboto', ...defaultTheme.fontFamily.sans], // Default for general text
+        heading: ['"Times New Roman"', 'Times', 'serif'],
+        body: ['"Times New Roman"', 'Times', 'serif'],
+        sans: ['"Times New Roman"', 'Times', 'serif'],
+        mono: ['"Courier Prime"', 'monospace'],
       },
       colors: {
-        'gfg-dark-bg': '#140000',      // Very dark red-black background
-        'gfg-card-bg': '#2C0000',      // Darker red-black for cards/surfaces
-        'gfg-red': '#A70000',          // A desaturated, deep red
-        'gfg-red-hover': '#CC0000',    // Slightly brighter red for hover states
-        'gfg-gold': '#F2B500',         // The prominent gold/yellow
-        'gfg-gold-hover': '#FFD700',   // Brighter gold for hover states
-        'gfg-text-light': '#F5F5DC',   // Off-white/cream for main text
-        'gfg-text-dark': '#808080',    // Dark grey for secondary text/placeholders
-        'gfg-border': '#5A0000',       // Dark red for borders
-        'gfg-gradient-start': '#3A0000', // For background gradients
-        'gfg-gradient-end': '#140000',   // For background gradients
+        // OUTBREAK 26 Breaking Bad / Desert theme
+        'gfg-dark-bg': '#0a0a0a',           // Very dark near-black background
+        'gfg-card-bg': '#14100a',           // Dark brown-black for cards/surfaces
+        'gfg-red': '#1a4d2e',               // Breaking Bad green (primary accent)
+        'gfg-red-hover': '#245e38',         // Slightly lighter green for hover states
+        'gfg-gold': '#d17a22',              // Desert haze orange (highlight color)
+        'gfg-gold-hover': '#e8903a',        // Brighter orange for hover states
+        'gfg-text-light': '#f0f0f0',        // Off-white for main text
+        'gfg-text-dark': '#a0a0a0',         // Muted grey for secondary text
+        'gfg-border': '#9c4d15',            // Burnt sienna for borders
+        'gfg-gradient-start': '#1a0f0a',    // Dark brown for gradients
+        'gfg-gradient-end': '#0a0a0a',      // Near-black for gradients
+        'br-green': '#1a4d2e',
+        'burnt-orange': '#d1510a',
       }
     },
   },
